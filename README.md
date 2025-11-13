@@ -116,12 +116,6 @@ npm start
 
 ---
 
-## License
-
-MIT License.
-
----
-
 ## Author
 
 - [Chandra Bhooshan](https://github.com/ChandraBhooshan)
